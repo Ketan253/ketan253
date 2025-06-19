@@ -23,7 +23,7 @@ I'm a final year B.Tech student passionate about technology and software develop
 - Competitive programming
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/ketan-anand-16213b279)
+- [LinkedIn](https://www.linkedin.com/in/ketan-anand-16213b279/)
 - Email: 22053253@kiit.ac.in
 
 
